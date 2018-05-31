@@ -8,6 +8,6 @@ public class Constance {
 	public final static String MESSAGE_TYPE_TRACE = "t";
 	public final static String MESSAGE_TYPE_WARN = "w";
 	public final static String MESSAGE_TYPE_DEBUG = "d";
-	public final static String EMPTY_STRING = "";
+	public final static String EMPTY_STRING = ""; 
 	
 }

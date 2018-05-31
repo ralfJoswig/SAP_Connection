@@ -13,7 +13,7 @@
 package com.github.ralfjoswig.SAP.SAP_Connection.logon;
 
 /**
- * @author Ralf Joswig
+ * @author Ralf Joswig 
  *
  */
 

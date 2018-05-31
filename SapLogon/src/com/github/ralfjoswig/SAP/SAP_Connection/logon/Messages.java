@@ -12,7 +12,7 @@ public class Messages extends NLS {
 	public static String SapLogon_System;
 	public static String SapLogon_User;
 	static {
-		// initialize resource bundle
+		// initialize resource bundle 
 		NLS.initializeMessages(BUNDLE_NAME, Messages.class);
 	}
 
