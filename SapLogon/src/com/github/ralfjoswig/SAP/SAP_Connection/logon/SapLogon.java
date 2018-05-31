@@ -10,7 +10,7 @@
  * You should have received a copy of the GNU General Public License along with this program;
  * if not, see <http://www.gnu.org/licenses/> 
  */
-package com.github.ralfjoswig.SAP.SAP_Connection.logon;
+package com.github.ralfjoswig.SAP.SAP_Connection.logon; 
 
 /**
  * @author Ralf Joswig 
